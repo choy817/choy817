@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hi%20There&fontSize=90)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choy817&show_icons=true&theme=github_dark_dimmed)
 
 <!--
